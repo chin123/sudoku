@@ -2,4 +2,4 @@
 Solves sudokus using recursive backtracking
 
 # Citations
-Sample sudokus in easySudokus.txt, hardSudokus.txt, multipleSolutions.txt taken from Peter Norvig's website: http://norvig.com/sudoku.html
+Sample sudokus in easysudokus.txt, hardsudokus.txt, multiplesolutions.txt taken from Peter Norvig's website: http://norvig.com/sudoku.html
